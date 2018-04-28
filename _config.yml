@@ -310,7 +310,7 @@ han: false
 
 # Disqus
 disqus:
-  enable: true
+  enable: false
   shortname: burni-blog
   count: true
 
